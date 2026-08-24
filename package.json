@@ -1,0 +1,15 @@
+{
+  "name": "baisikool.mx",
+  "private": true,
+  "version": "2.0.0",
+  "description": "BAISIKOOL - Agencia de Marketing Digital y Aceleración de Marcas (Rebrand & Web Platform)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
